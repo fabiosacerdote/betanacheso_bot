@@ -22,7 +22,7 @@ $risposta = $text;
 
 if ($text == "spegniti")
 {
-  $risposta = "no stronzo!";
+  $risposta = "no stronzo! so dove abiti " . $firstname . $lastname;
 }
 
 header("Content-Type: application/json");
