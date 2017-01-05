@@ -1,3 +1,3 @@
-# Telegram Echo Bot
+# Telegram NACHESO Bot - beta
 
-This is a sample Telegram Bot written in PHP running on Heroku
+This is a beta version of NACHESO BOT
